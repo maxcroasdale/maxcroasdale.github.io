@@ -1,3 +1,2 @@
 # maxcroasdale.github.io
  website and blog
-Changing the world one block at a time...
