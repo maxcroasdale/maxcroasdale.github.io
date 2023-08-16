@@ -1,8 +1,24 @@
 ---
 title: "Workshop wiring 3 -  tidy the cables"
 date: 2023-01-07T16:04:01Z
-draft: true
+
+draft: false
+summary:
+description:
+slug: workshopwiring-3
+author: MC
+
+
+lastmod:
+expiryDate:
+publishDate:
+
+toc: false
+related: false
+newsletter: false
+disable_comments: false
 ---
+
 
 Week three of the wiring. First let's tidy those cables.
 
@@ -34,6 +50,7 @@ Now all that remains is that I connected the new rings to the fusebox. Easy...
 
 ![](/images/9653.jpeg)
 
-[The lights are on](/posts/mar/garagetidyandlights/) 
+[The lights are on](/posts/mar-2023/garage-tidy-light/) 
 
-[New fuse box](/posts/mar/electricians/) 
+[New fuse box](/posts/mar-2023/electricians/) 
+

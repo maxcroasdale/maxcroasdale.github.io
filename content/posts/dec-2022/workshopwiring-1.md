@@ -1,7 +1,21 @@
 ---
 title: "Workshop wiring 1 - cabling"
 date: 2022-12-29T16:48:52Z
-draft: true
+draft: false
+summary:
+description:
+slug: workshopwiring-1
+author: MC
+
+
+lastmod:
+expiryDate:
+publishDate:
+
+toc: false
+related: false
+newsletter: false
+disable_comments: false
 ---
 After a near four week hiatus due to hesitancy using the car, we're back. An independent mechanic has opined that there's nothing operationally wrong with the clutch, so I'll modify my gear changing technique and hope there's no recurrence of the burning smell.
 
@@ -32,6 +46,6 @@ Then install the electrical boxes at roughly the same height.
 
 The walls are so non-straight that I'll probably not be able to fit them flush but they are secure enough.
 
-It's bastard freezing the workshop. But a good day's work. Go [here](/posts/dec/workshopwiring-2/) for day two.
+It's bastard freezing the workshop. But a good day's work. Go [here](/posts/dec-2022/workshopwiring-2/) for day two.
 
 

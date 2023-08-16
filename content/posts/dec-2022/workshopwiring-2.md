@@ -1,7 +1,21 @@
 ---
 title: "Workshop wiring 2 - junction boxes"
 date: 2022-12-30T15:50:27Z
-draft: true
+draft: false
+summary:
+description:
+slug: workshopwiring-2
+author: MC
+
+
+lastmod:
+expiryDate:
+publishDate:
+
+toc: false
+related: false
+newsletter: false
+disable_comments: false
 ---
 
 Quite mild today for another run at joining the wiring circuits. It's fiddly work getting three sets of cable cut to the correct length and then inserted into the junction boxes. Why don't they make these junction boxes bigger?
@@ -31,4 +45,4 @@ By 3pm it's gone cold again and I'm feeling the pain of stretching. bending, and
 
 Lots done. Lots to do. 
 
-Go to the [Third part](/posts/dec/workshopwiring-3/) 
+Go to the [Third part](/posts//dec-2022/workshopwiring-3/) 
