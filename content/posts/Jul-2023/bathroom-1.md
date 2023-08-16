@@ -1,13 +1,13 @@
 ---
 title: "Bathroom 1"
-draft: true
+date: 2023-07-06T21:21:46-05:00
+draft: false
 summary:
 description:
 slug: bathroom-1
 author: MC
 
 draft: false
-date: 2023-07-06T21:21:46-05:00
 lastmod:
 expiryDate:
 publishDate:

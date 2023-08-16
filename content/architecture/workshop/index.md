@@ -27,7 +27,7 @@ Workshop, AKA the garage.  This is destined to be one of the most used rooms in 
 ![](/images/9447.jpeg)
 
 ## Power and lighting circuits
-The building has its own fuse box so it'll be a good first pass at rewiring. I'm planning to use industrial looking galvanised steel conduits and switches and boxes dropped from the ring in the ceiling.
+The building has its own fuse box, so it'll be a good first pass at rewiring. I'm planning to use industrial looking galvanised steel conduits and switches and boxes dropped from the ring in the ceiling.
 
 ![](/images/2001.jpeg)
 
@@ -40,14 +40,14 @@ The main power ring: a simple socket radial using junction boxes.
 
 ![](/images/9511.jpeg)
 
-See [here](/posts/powersocket) for the post that describes this job.
+See [here](/posts/oct-2022/power-socket) for the post that describes this job.
 
 And the lighting:
 
 ![](/images/workshop-lightingring.png)
 
 
-See [here](/posts/workshoplights) for the post that describes this job.
+See [here](/posts/nov-2022/workshop-lights) for the post that describes this job.
 
 
 After painting:
@@ -61,19 +61,19 @@ After painting:
 ![](/images/9569.jpeg)
 
 
-Wiring
+### Wiring
 
-[One](/posts/workshopwiring-1)
+[One](/posts/dec-2022/workshopwiring-1)
 
-[Two](/posts/workshopwiring-2)
+[Two](/posts/dec-2022/workshopwiring-2)
 
-[Three](/posts/workshopwiring-3)
+[Three](/posts/dec-2022/workshopwiring-3)
 
-March 2023
+### March 2023
 
 ![](/images/9870.jpeg)
 
-May 2023
+### May 2023
 
 ![](/images/0025.jpeg)
 

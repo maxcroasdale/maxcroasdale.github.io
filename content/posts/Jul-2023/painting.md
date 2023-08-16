@@ -2,8 +2,6 @@
 title: "Middle room painting"
 date: 2023-06-21T17:23:25Z
 
-
-date: 2023-07-29T08:50:23+01:00
 draft: false
 
 summary:

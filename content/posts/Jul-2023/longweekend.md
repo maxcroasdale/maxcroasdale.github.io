@@ -1,6 +1,6 @@
 ---
 title: "Long weekend"
-date: 2023-07-06T21:21:46-05:00
+date: 2023-07-15T21:21:46-05:00
 summary:
 description:
 slug: long-weekend

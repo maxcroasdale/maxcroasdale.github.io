@@ -1,7 +1,6 @@
 ---
 title: "This and that"
 date: 2023-06-21T17:23:25Z
-
 draft: false
 summary:
 description:

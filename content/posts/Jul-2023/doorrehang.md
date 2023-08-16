@@ -1,14 +1,15 @@
 ---
-draft: true
 title: "Rehang doors"
-draft: true
+date: 2023-07-06T21:21:46-05:00
+draft: false
+
 summary:
 description:
 slug: rehang-doors
 author: MC
 
 draft: false
-date: 2023-07-06T21:21:46-05:00
+
 lastmod:
 expiryDate:
 publishDate:
@@ -26,7 +27,7 @@ Doors in the downstairs are back in place, although a little warped after standi
 ![](/images/0080.jpeg)
 
 
-Just neeed to finish painting and then we'll get basin/wc in.
+Just need to finish painting and then we'll get basin/wc in.
 
 
 ![](/images/0097.jpeg)
