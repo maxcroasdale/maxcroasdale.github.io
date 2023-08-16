@@ -29,6 +29,9 @@
     <loc>http://maxcroasdale.github.io/architecture/kitchen/</loc>
     <lastmod>2022-08-22T16:48:38+01:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/aug-2023/</loc>
+    <lastmod>2023-08-13T09:35:18+01:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/</loc>
     <lastmod>2023-08-13T09:35:18+01:00</lastmod>
   </url><url>
@@ -47,9 +50,6 @@
     <loc>http://maxcroasdale.github.io/posts/jul-2023/</loc>
     <lastmod>2023-07-29T08:50:23+01:00</lastmod>
   </url><url>
-    <loc>http://maxcroasdale.github.io/posts/jul-2023/painting/</loc>
-    <lastmod>2023-07-29T08:50:23+01:00</lastmod>
-  </url><url>
     <loc>http://maxcroasdale.github.io/posts/jul-2023/mr-burgess/</loc>
     <lastmod>2023-07-29T08:50:23+01:00</lastmod>
   </url><url>
@@ -59,10 +59,10 @@
     <loc>http://maxcroasdale.github.io/posts/jul-2023/shelves/</loc>
     <lastmod>2023-07-21T17:23:25+00:00</lastmod>
   </url><url>
-    <loc>http://maxcroasdale.github.io/posts/jul-2023/bathroom-1/</loc>
-    <lastmod>2023-07-06T21:21:46-05:00</lastmod>
-  </url><url>
     <loc>http://maxcroasdale.github.io/posts/jul-2023/long-weekend/</loc>
+    <lastmod>2023-07-15T21:21:46-05:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/jul-2023/bathroom-1/</loc>
     <lastmod>2023-07-06T21:21:46-05:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/jul-2023/rehang-doors/</loc>
@@ -71,8 +71,14 @@
     <loc>http://maxcroasdale.github.io/posts/jun-2023/</loc>
     <lastmod>2023-06-21T17:23:25+00:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/jul-2023/painting/</loc>
+    <lastmod>2023-06-21T17:23:25+00:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/posts/jun-2023/this-n-that/</loc>
     <lastmod>2023-06-21T17:23:25+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/may-2023/</loc>
+    <lastmod>2023-05-08T13:03:09+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/may-2023/workshop-peg-boards/</loc>
     <lastmod>2023-05-08T13:03:09+01:00</lastmod>
@@ -82,6 +88,9 @@
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/may-2023/mid-room-final/</loc>
     <lastmod>2023-05-01T17:14:24+01:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/apr-2023/</loc>
+    <lastmod>2023-04-20T10:18:33+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/apr-2023/middle-room-final/</loc>
     <lastmod>2023-04-20T10:18:33+01:00</lastmod>
@@ -120,6 +129,9 @@
     <lastmod>2023-04-02T15:35:47+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/mar-2023/campag-spoken-here/</loc>
+    <lastmod>2023-03-26T18:26:59+01:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/mar-2023/</loc>
     <lastmod>2023-03-26T18:26:59+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/mar-2023/garage-door-insulate/</loc>
@@ -177,6 +189,9 @@
     <lastmod>2023-03-04T12:39:42+00:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/feb-2023/day-off/</loc>
+    <lastmod>2023-02-25T12:35:30+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/feb-2023/</loc>
     <lastmod>2023-02-25T12:35:30+00:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/feb-2023/kites/</loc>
@@ -239,6 +254,9 @@
     <loc>http://maxcroasdale.github.io/posts/jan-2023/can-soup/</loc>
     <lastmod>2023-01-28T16:09:46+00:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/jan-2023/</loc>
+    <lastmod>2023-01-28T16:09:46+00:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/posts/jan-2023/new-bedding/</loc>
     <lastmod>2023-01-21T17:36:16+00:00</lastmod>
   </url><url>
@@ -251,8 +269,23 @@
     <loc>http://maxcroasdale.github.io/posts/jan-2023/fox-and-campag/</loc>
     <lastmod>2023-01-07T16:11:27+00:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/dec-2022/</loc>
+    <lastmod>2023-01-07T16:04:01+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/dec-2022/workshopwiring-3/</loc>
+    <lastmod>2023-01-07T16:04:01+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/dec-2022/workshopwiring-2/</loc>
+    <lastmod>2022-12-30T15:50:27+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/nov-2022/</loc>
+    <lastmod>2022-12-30T14:19:52+00:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/posts/nov-2022/panels-three/</loc>
     <lastmod>2022-12-30T14:19:52+00:00</lastmod>
+  </url><url>
+    <loc>http://maxcroasdale.github.io/posts/dec-2022/workshopwiring-1/</loc>
+    <lastmod>2022-12-29T16:48:52+00:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/nov-2022/window-clean/</loc>
     <lastmod>2022-11-19T16:32:29+00:00</lastmod>
@@ -287,6 +320,9 @@
     <loc>http://maxcroasdale.github.io/posts/nov-2022/paint-floor/</loc>
     <lastmod>2022-11-06T15:30:23+00:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/oct-2022/</loc>
+    <lastmod>2022-10-30T17:15:03+00:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/posts/oct-2022/big-clean/</loc>
     <lastmod>2022-10-30T17:15:03+00:00</lastmod>
   </url><url>
@@ -308,14 +344,14 @@
     <loc>http://maxcroasdale.github.io/posts/sept-2022/beams-klingstrip/</loc>
     <lastmod>2022-09-19T16:47:09+01:00</lastmod>
   </url><url>
+    <loc>http://maxcroasdale.github.io/posts/sept-2022/</loc>
+    <lastmod>2022-09-19T16:47:09+01:00</lastmod>
+  </url><url>
     <loc>http://maxcroasdale.github.io/posts/sept-2022/max-destroyer/</loc>
     <lastmod>2022-09-19T16:37:53+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/sept-2022/esther-makes-bed/</loc>
     <lastmod>2022-09-18T15:30:59+01:00</lastmod>
-  </url><url>
-    <loc>http://maxcroasdale.github.io/posts/sept-2022/welcome/</loc>
-    <lastmod>2022-09-16T14:37:10+01:00</lastmod>
   </url><url>
     <loc>http://maxcroasdale.github.io/posts/nov-2022/move-it/</loc>
     <lastmod>2022-09-03T15:49:50+00:00</lastmod>
