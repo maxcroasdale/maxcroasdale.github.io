@@ -19,6 +19,6 @@ newsletter: false
 disable_comments: false
 ---
 
-Family event to attend, so I'm having a day off...
+Family event to attend, so we're having a day off...
 
 ![](/images/deckchair.jpeg)
