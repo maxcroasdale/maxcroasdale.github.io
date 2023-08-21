@@ -40,3 +40,7 @@ July, 2023
 - Audio system back
 
 ![](/images/0154.jpeg)
+
+
+
+![](/images/0162.jpeg)
