@@ -20,11 +20,14 @@ newsletter: false
 disable_comments: false
 ---
 
-![](/images/0165.jpeg)
+![](/images/0200.jpeg)
 
 After nearly two years in boxes I've installed the big NVA amps. The Music Room is filling up with black boxes!
 
 After a few hours to warm up, they are sounding sweet and musical. They have the ability to create a big sound stage with depth - a real 3D image that's like walking into a concert hall.
 They are uncanny in their ability to make sense of a lot of musical information. This present configuration has them about 2.5 metres apart. The whole room sounds great.
 
-![](/images/0166.jpeg)
+
+
+![](/images/0199.jpeg)
+

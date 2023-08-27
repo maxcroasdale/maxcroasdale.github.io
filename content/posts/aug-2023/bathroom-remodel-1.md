@@ -6,7 +6,7 @@ description:
 slug: bathroom-remodel-1
 author: <no value>
 
-draft: true
+draft: false
 date: 2023-08-21T18:02:09+01:00
 lastmod: 
 expiryDate: 
@@ -19,18 +19,15 @@ categories:
 tags:
 series:
 
-toc: true
-related: true
-social_share: true
-newsletter: true
-disable_comments: false
+toc: false
+
 ---
 An entire week off with the aim of laying the groundwork for the bathroom remodel. 
 I'm knocking out the airing cupboard which will increase the space to fit a bath as well as a walk-in shower.
 
 ![](/images/0196.jpeg)
 
-Let's see what state those tiles are in under the rubber...
+Esther joins in the destroyer thing! Let's see what state those tiles are in under the rubber...
 
 ![](/images/0193.jpeg)
 
