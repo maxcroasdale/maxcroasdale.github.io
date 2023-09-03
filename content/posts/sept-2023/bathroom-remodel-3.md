@@ -1,28 +1,28 @@
 ---
 title: Bathroom Remodel 3
-seo_title: Bathroom Remodel 3
-summary:
-description:
-slug: bathroom-remodel-3
+seo_title: Bathroomremodel3
+summary: 
+description: 
+slug: bathroom remodel 3
 author: <no value>
 
-draft: false
-date: 2023-09-22T18:05:12+01:00
-lastmod:
-expiryDate:
-publishDate:
+draft: true
+date: 2023-09-03T14:08:04+01:00
+lastmod: 
+expiryDate: 
+publishDate: 
 
-feature_image:
-feature_image_alt:
+feature_image: 
+feature_image_alt: 
 
 categories:
 tags:
 series:
 
 toc: false
-
 ---
-Slap on the undercoat to banish the original dirty yellow. 
+
+Slap on the undercoat to banish the original dirty yellow.
 
 ![](/images/0272.jpeg)
 
