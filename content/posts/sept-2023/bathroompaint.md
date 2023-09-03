@@ -1,12 +1,11 @@
 ---
-title: Bathroompaint
-seo_title: Bathroompaint
+title: Bathroom paint
 summary: 
 description: 
 slug: bathroom paint
 author: <no value>
 
-draft: true
+draft: false
 date: 2023-09-03T14:42:25+01:00
 lastmod: 
 expiryDate: 
@@ -19,11 +18,8 @@ categories:
 tags:
 series:
 
-toc: true
-related: true
-social_share: true
-newsletter: true
-disable_comments: false
+toc: false
+
 ---
 
 Slap on the undercoat to banish the original dirty yellow.
