@@ -40,4 +40,13 @@ Slap on the undercoat to banish the original dirty yellow.
 
 ![](/images/0281.jpeg)
 
+![](/images/5390.jpeg)
+
+![](/images/5393.jpeg)
+
+![](/images/5395.jpeg)
+
+The plumber and builder are doing their thing for the next few weeks and we're expecting a transformation of epic proportions. 
+The plan is to have a walk-in shower, bidet, basin, _and_ bath.
+
 
