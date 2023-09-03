@@ -1,3 +1,4 @@
+---
 title: Bathroom Remodel 3
 seo_title: Bathroom Remodel 3
 summary:
@@ -6,7 +7,7 @@ slug: bathroom-remodel-3
 author: <no value>
 
 draft: false
-date: 2023-09-03T18:05:12+01:00
+date: 2023-09-22T18:05:12+01:00
 lastmod:
 expiryDate:
 publishDate:
