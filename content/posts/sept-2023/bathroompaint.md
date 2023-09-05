@@ -24,21 +24,21 @@ toc: false
 
 Slap on the undercoat to banish the original dirty yellow.
 
-![](/images/0272.jpeg)
+<!-- ![](/images/0272.jpeg) -->
 
 ![](/images/0273.jpeg)
 
 ![](/images/0274.jpeg)
 
 
-![](/images/0276.jpeg)
+<!--  ![](/images/0276.jpeg) -->
 
 ![](/images/0277.jpeg)
 
 
 ![](/images/0279.jpeg)
 
-![](/images/0281.jpeg)
+<! -- ![](/images/0281.jpeg) -->
 
 ![](/images/5390.jpeg)
 

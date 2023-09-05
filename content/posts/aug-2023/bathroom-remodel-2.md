@@ -6,7 +6,7 @@ description:
 slug: bathroom-remodel-2
 author: <no value>
 
-draft: false
+draft: true
 date: 2023-08-22T18:05:12+01:00
 lastmod: 
 expiryDate: 
