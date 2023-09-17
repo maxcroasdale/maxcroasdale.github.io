@@ -37,6 +37,6 @@ Trades have been for four days. Mostly removing and making good and installing p
 
 ![](/images/0315.jpeg)
 
-![](/images/0316.jpeg)
+
 
 
