@@ -40,7 +40,7 @@ And clean the cups.
 
 ![](/images/0287.jpeg)
 
-Tighten to correct torque.
+
 
 [](/images/0288.jpeg)
 
