@@ -6,7 +6,7 @@ description:
 slug: loft
 author: <no value>
 
-draft: true
+draft: false
 date: 2023-09-17T11:56:40+01:00
 lastmod: 
 expiryDate: 
@@ -35,5 +35,7 @@ The F/E tank will be moved further back and this'll create a bit of space. We'll
 ![](/images/0319.jpeg)
 
 ![](/images/0320.jpeg)
+
+![](/images/0321.jpeg)
 
 
