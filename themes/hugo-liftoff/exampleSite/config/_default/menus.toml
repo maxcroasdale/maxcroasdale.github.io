@@ -44,7 +44,7 @@
     identifier = "subsection"
     name = "Subsection"
     url = "/subsection/"
-    # url = "/posts/subsection/" # Remove url param from subsection/_index.md frontmatter to use full permalink
+    # url = "/posts/subsection/" # Remove url param from subsection/index.md frontmatter to use full permalink
     parent = "writing"
     weight = 5
 
