@@ -21,10 +21,13 @@ series:
 
 toc: false
 ---
+Sliding door...
 
 ![](/images/0328.jpeg)
 
 ![](/images/0329.jpeg)
+
+Snug...
 
 ![](/images/0330.jpeg)
 
@@ -40,7 +43,7 @@ toc: false
 
 ![](/images/0336.jpeg)
 
-
+Paint it!
 
 
 
