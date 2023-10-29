@@ -1,5 +1,5 @@
 ---
-title: Down Loo Final
+title: Downstairs Loo Final
 seo_title: Downstairs Loo Final
 summary: 
 description: 
