@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt: 
 
 ---
-No longer the worse toilet in Jacobean England. 
+No longer the worst toilet in Jacobean England. 
 
 
 ![](/images/5771.jpeg) 
