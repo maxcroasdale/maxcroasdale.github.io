@@ -19,7 +19,13 @@ weight: 2
 ---
 The music room has a high ceiling and lively acoustic. I'll probably use it as my 'office' too.
 
+August 2022
+
 ![](/images/9404.jpeg)
+
+September 2023
+
+![](/images/0180.jpeg)
 
 
 ![](/images/9417.jpeg)
@@ -44,3 +50,4 @@ July, 2023
 
 
 ![](/images/0162.jpeg)
+
