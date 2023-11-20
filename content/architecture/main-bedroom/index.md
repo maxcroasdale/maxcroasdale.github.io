@@ -17,10 +17,9 @@ weight: 6
 ---
 
 Aug 2022
+
 ![](/images/9429.jpeg)
 
-July 2023
-
-Jute matting
+Aug 2023
 
 ![](/images/0116.jpeg)
