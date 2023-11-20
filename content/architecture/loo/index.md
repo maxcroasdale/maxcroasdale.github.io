@@ -22,11 +22,7 @@ The worst toilet in Jacobean England.
 
 ![](/images/9428.jpeg)
 
-![](/images/9441.jpeg)
 
-![](/images/9442.jpeg)
-
-![](/images/9443.jpeg)
 
 
 Removing yet more shelves...
