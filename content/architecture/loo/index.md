@@ -1,6 +1,6 @@
 ---
 title: Downstairs loo
-summary: The worst toilet in Jacobean England.
+summary: The worst toilet in Jacobean England
 slug: downstairs-loo
 author: MC
 
