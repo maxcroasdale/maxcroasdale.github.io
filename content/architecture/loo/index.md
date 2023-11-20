@@ -16,7 +16,7 @@ weight: 6
 
 ---
 
-The worst toilet in Jacobean England.
+The worst toilet in Jacobean England
 
 ![](/images/9427.jpeg)
 
