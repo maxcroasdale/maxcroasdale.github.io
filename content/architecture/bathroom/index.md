@@ -17,13 +17,7 @@ The bathroom - not quite as horrible as the downstairs loo...
 
 ![](/images/0161.jpeg)
 
-but in need of remodelling. September 2023
-
-![](/images/0324.jpeg)
-
-
-![](/images/5593.jpeg)
+October 2023
 
 ![](/images/0332.jpeg)
 
-:-)
