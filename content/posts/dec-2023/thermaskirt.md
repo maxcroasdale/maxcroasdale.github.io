@@ -7,7 +7,7 @@ slug: thermaskirt
 author: <no value>
 
 draft: false
-date: 2023-12-10T14:12:21Z
+date: 2023-12-10
 lastmod: 
 expiryDate: 
 publishDate: 
