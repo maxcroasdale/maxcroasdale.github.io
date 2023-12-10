@@ -7,7 +7,7 @@ slug: bathroom-final
 author: <no value>
 
 draft: false
-date: 2022-10-29T16:48:38+01:00
+date: 2023-10-29T16:48:38+01:00
 lastmod:
 expiryDate:
 publishDate:

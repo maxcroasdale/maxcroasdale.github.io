@@ -10,7 +10,7 @@ draft: false
 date: 2023-12-10
 lastmod: 
 expiryDate: 
-publishDate: 
+publishDate: 2023-12-10
 
 feature_image: 
 feature_image_alt: 
