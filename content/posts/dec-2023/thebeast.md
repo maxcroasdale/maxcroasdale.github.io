@@ -18,4 +18,18 @@ feature_image_alt:
 ---
 Putting the Garrard 401 back into The Beast after replacing the idler wheel. 
 
-![](/images/.jpeg) 
+![](/images/6013.jpeg) 
+
+![](/images/6015.jpeg) 
+
+
+![](/images/6009.jpeg) 
+
+![](/images/6011.jpeg)
+
+
+![](/images/6016.jpeg) 
+
+![](/images/6017.jpeg) 
+
+![](/images/6018.jpeg)
