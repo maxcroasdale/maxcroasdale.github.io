@@ -14,7 +14,7 @@ publishDate:
 
 feature_image: website.jpg
 feature_image_alt: Website
-weight: 6
+weight: 
 
 ---
 
