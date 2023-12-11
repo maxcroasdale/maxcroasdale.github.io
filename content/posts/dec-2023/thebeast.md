@@ -16,7 +16,8 @@ feature_image:
 feature_image_alt: 
 
 ---
-Putting the Garrard 401 back into The Beast after replacing the idler wheel. Then set it up with the Audio Note Tone Arm. Audio bliss.
+The Garrard 401 goes back into The Beast. I replaced the idler wheel last week.
+Then set it up with the Audio Note Tone Arm. Audio bliss.
 
 ![](/images/6013.jpeg) 
 
