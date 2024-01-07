@@ -7,10 +7,10 @@ slug: Bannister remove
 author: <no value>
 
 draft: false
-date: 2024-01-05
+date: 2024-01-07
 lastmod: 
 expiryDate: 
-publishDate: 2024-01-5
+publishDate: 2024-01-7
 
 feature_image: 
 feature_image_alt: 
