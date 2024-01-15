@@ -44,3 +44,4 @@ The water is draining into the drain in the street. Only a minor hazard for traf
 
 ![](/images/6165.jpeg) 
 
+When we arrived the following Saturday - new pump and hose in hand - we find that all the water remnants have gone. Water table has subsided!

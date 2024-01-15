@@ -26,3 +26,5 @@ Remove the odd looking Victorian-style bannister in prep for the contemporary ne
 ![](/images/0404.jpeg) 
 
 ![](/images/0405.jpeg) 
+
+![](/images/6187.jpeg) 
