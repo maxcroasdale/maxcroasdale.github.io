@@ -1,9 +1,9 @@
 ---
-title: Flemming
-seo_title: Flemming
+title: Fleming
+seo_title: Fleming
 summary: 
 description: 
-slug: Flemming
+slug: Fleming
 author: <no value>
 
 draft: false
