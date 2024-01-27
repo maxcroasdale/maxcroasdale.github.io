@@ -18,9 +18,11 @@ feature_image_alt:
 ---
 Fabricate an in-fill for the floorboard.
 
+![](/images/0427.jpeg)
+
 ![](/images/0426.jpeg)
 
-![](/images/0427.jpeg)
+
 
 
 And a little plaster...
