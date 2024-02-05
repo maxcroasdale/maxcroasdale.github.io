@@ -40,7 +40,7 @@ Remove the non-Jacobean ladder to the loft.
 ![](/images/0446.jpeg)
 
 
-![](/images/staircase.svg)
+
 
 
 
