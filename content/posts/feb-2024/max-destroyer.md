@@ -39,6 +39,8 @@ Remove the non-Jacobean ladder to the loft.
 
 ![](/images/0446.jpeg)
 
+Planning to replace the floor with reclaimed boards.
+
 
 
 
