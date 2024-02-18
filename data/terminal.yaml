@@ -1,0 +1,95 @@
+---
+# Predefined in: website/layouts/partials/terminals/bash.html
+styles:
+  - typing: &typing
+      speed: 20
+      lifelike: true
+  - loading-slow: &loading-slow
+      speed: 200
+      lifelike: false
+  - loading-fast: &loading-fast
+      speed: 100
+      lifelike: false
+  - output: &output
+      speed: 0
+      lifelike: false
+# Predefined in: website/layouts/partials/terminals/bash.html
+prompt-format:
+  - text: &text 1
+  - command: &command 2
+  - prompt: &prompt 3
+  - link: &link 4
+  - comment: &comment 5
+lines:
+  - options: *output
+    format: *comment
+    text:
+      - "# Download the Helix auth helix-core"
+    break: true
+
+  - options: *output
+      format: *prompt
+      text:
+        - "$ "
+
+  - options: *typing
+    format: *command
+    text:
+      - "helix plugins install helix-core"
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - "Deleting older version of the binary"
+      - "Cleaning up entry in the plugins manifest"
+    pause: 300
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - "Downloading version: v0.x.x of helix-core from Artifactory"
+
+  - options: *loading-slow
+    format: *text
+    text:
+      - "..."
+    pause: 1300
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - "Download complete"
+      - ""
+    break: true
+
+  - options: *output
+    format: *prompt
+    text:
+      - "$ "
+
+  - options: *typing
+    format: *command
+    text:
+      - "helix -V"
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - "0.9.0 "
+      - ""
+    break: true
+    pause: 300
+
+  - options: *output
+    format: *comment
+    text:
+      - "# Read the Docs: "
+
+  - options: *output
+    format: *link
+    text:
+      - https://techstrategy.citi.net/docs/helix/helix_cli

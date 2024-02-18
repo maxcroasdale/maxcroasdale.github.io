@@ -1,0 +1,66 @@
+---
+# Predefined in: website/layouts/partials/terminals/bash.html
+styles:
+  - typing: &typing
+      speed: 20
+      lifelike: true
+  - loading-slow: &loading-slow
+      speed: 200
+      lifelike: false
+  - loading-fast: &loading-fast
+      speed: 100
+      lifelike: false
+  - output: &output
+      speed: 0
+      lifelike: false
+# Predefined in: website/layouts/partials/terminals/bash.html
+prompt-format:
+  - text: &text 1
+  - command: &command 2
+  - prompt: &prompt 3
+  - link: &link 4
+  - comment: &comment 5
+lines:
+  - options: *output
+    format: *prompt
+    text:
+      - "$ ~/my-project> "
+
+  - options: *typing
+    format: *command
+    text:
+      - "helix plugins ls"
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - ""
+      - "NAME                DESCRIPTION                    ALREADY INSTALLED         INSTALLED VERSION     LATEST VERSION"
+      - "▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔      "
+      - "helix-core           helix core plugin             true                      v0.9.0                v0.9.0"
+      - "auth                 Used automate authentication as much as possible    true       v1.0.0-ea      v1.0.2-ea  "
+      - "lens                 Used to find credentials in the repo    true                  v1.0.0          v1.0.0 "
+      - "armour              Used to scan a repo for vulnerabilities   false          "
+      - "heimdall             Used to validate compliance to Helix standards       true      v1.0.2-ea      v1.0.2-ea "
+      - "ansible-galaxy       Perform various Ansible Role and Collection related operations  false         v0.0.1 "
+      - "apispecvalidation    Perform Open API Specification validation                   false             v1.0.0 "
+      - ""
+    break: true
+
+  - options: *output
+    format: *text
+    text:
+      - ""# Read the Docs: "
+
+  - options: *output
+    format: *link
+    text:
+      - https://techstrategy.citi.net/docs/helix/helix_cli/
+    break: true
+
+  - options: *output
+  format: *prompt
+    text:
+      - "$ ~/my-project> "
+    pause: 5000

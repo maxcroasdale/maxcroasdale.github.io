@@ -1,0 +1,145 @@
+<style>
+    .console {
+      border-radius: 5px 5px 0 0;
+      position: relative;
+      height: 400px;
+      width: 900px;
+      background-color: black;
+      margin: 25px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .console pre {
+      height: calc(100% - 20px);
+    }
+
+    .console .title {
+      text-align: center;
+      background: #20242b;
+      height: 20px;
+      color: rgb(204, 204, 204);
+      border-radius: 5px 5px 0 0;
+      display: flex;
+      justify-content: space-between;
+      font-family: monospace;
+    }
+
+    .console .controls {
+      display: flex;
+      align-items: center;
+      gap: 0.2rem;
+    }
+
+    .console .circle {
+      width: 10px;
+      height: 10px;
+      display: inline-block;
+      border-radius: 15px;
+      margin-left: 2px;
+      border-width: 1px;
+      border-style: solid;
+    }
+
+    .console .controls .yellow {
+      background: #f5c04f;
+      border-color: #d6a13d;
+    }
+
+    .console .controls .red {
+      background: #ec6a5f;
+      border-color: #d04e42;
+    }
+
+    .console .controls .green {
+      background: #64cc57;
+      border-color: #4ea73b;
+    }
+</style>
+
+{{ $id := .id | printf "%v%v" now.UnixMilli }} {{ $script := .script | jsonify
+}}
+
+<div class="console">
+    <div class="title">
+        <div class="controls">
+            <span class="circle red"></span>
+            <span class="circle yellow"></span>
+            <span class="circle green"></span>
+        </div>
+        <div class="title">bash -- 70x32</div>
+        <div></div>
+    </div>
+    <pre id="console-body-{{ $id }}" style="white-space: pre"></pre>
+</div>
+
+<script src="/js/typeit.js"></script>
+<script>
+    // https://www.typeitjs.com/docs/v7/
+    document['format{{ $id }}'] = {
+        TEXT: 1,
+        COMMAND: 2,
+        PROMPT: 3,
+        LINK: 4,
+        COMMENT: 5,
+    };
+
+    function asHtmlText(str) {
+        return `<span style='color:#d5d5ce; line-height: 1rem;'>${str}</span>`;
+    }
+
+    function asHtmlCommand(str) {
+        return `<span style='color:#d93232; line-height: 1rem;'>${str}</span>`;
+    }
+
+    function asHtmlPrompt(str) {
+        return `<span style='color:#d53636; line-height: 1rem;'>${str}</span>`;
+    }
+
+    function asHtmlLink(str) {
+        return `<a href="${str}" target="_blank"><span style='color:#3a6bc5; line-height: 1rem; text-decoration: underline;'>${str}</span> </a>`;
+    }
+
+    function asHtmlComment(str) {
+        return `<span style='color:#9a9a9a; line-height: 1rem;'>${str}</span>`;
+    }
+
+    function formatAsHtml(line, text) {
+        switch (line.format) {
+            case document['format{{ $id }}'].TEXT:
+                return asHtmlText(text);
+            case document['format{{ $id }}'].COMMAND:
+                return asHtmlCommand(text);
+            case document['format{{ $id }}'].PROMPT:
+                return asHtmlPrompt(text);
+            case document['format{{ $id }}'].LINK:
+                return asHtmlLink(text);
+            case document['format{{ $id }}'].COMMENT:
+                return asHtmlComment(text);
+        }
+    }
+
+    document['typeIt{{ $id }}'] =
+        new TypeIt("#console-body-{{ $id }}", {
+            waitUntilVisible: true,
+            loop: false,
+            startDelay: 0,
+            afterString: async (instance) => {
+                const elem = document.getElementById("console-body-{{ $id }}");
+                if (elem != null) {
+                    elem.scrollTo(0, 5000);
+                }
+            },
+        });
+
+    JSON.parse({{ $script }}).lines.forEach(function (line) {
+        line.text.forEach(function (t) {
+            document['typeIt{{ $id }}'].options(line.options);
+            document['typeIt{{ $id }}'].type(formatAsHtml(line, t));
+            document['typeIt{{ $id }}'].pause(line.pause ? line.pause : 0);
+            if (line.break) {
+                document['typeIt{{ $id }}'].break();
+            }
+        });
+    });
+    document['typeIt{{ $id }}'].go();
+</script>
