@@ -1,23 +1,23 @@
 ---
-title: Kitchen door
-seo_title: Kitchen door
+title: Doors and plastering
+seo_title: Doors and plastering
 summary: 
 description: 
-slug: Kitchen door
+slug: Doors and plastering
 author: <no value>
 
 draft: false
-date: 2024-02-20
+date: 2024-02-21
 lastmod: 
 expiryDate: 
-publishDate: 2024-02-20
+publishDate: 2024-02-21
 
 feature_image: 
 feature_image_alt: 
 
 ---
 
-Nick, the builder, reworking the kitchen door.
+Nick, the builder, reworking the kitchen and snug doors and making good walls.
 
 
 
@@ -33,3 +33,6 @@ Nick, the builder, reworking the kitchen door.
 
 ![](/images/6503.jpeg)
 
+![](/images/6506.jpeg)
+
+![](/images/6507.jpeg)
