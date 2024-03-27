@@ -19,11 +19,22 @@ feature_image_alt:
 Easter is early this year, but we are laying flooring again over the long w/e. This time in the staircase room.
 To replace the chipboard we have 5m<sub>2</sub> of reclaimed pineboards. They need washing and sanding.
 
+## Stage one
+
+Wire brush and washing.
 
 ![](/images/0511.jpeg)
 
 ![](/images/0512.jpeg)
 
-![](/images/0514.jpeg)
-
 ![](/images/0516.jpeg)
+
+
+## Stage two
+
+Sanding.
+
+![](/images/6721.jpeg)
+
+
+
