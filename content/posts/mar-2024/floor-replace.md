@@ -36,5 +36,27 @@ Sanding.
 
 ![](/images/6721.jpeg)
 
+## Stage three
+
+Remove the old chipboard floor. 
+
+![](/images/0517.jpeg)
+
+And clean the rubble and dust. How much crap was between the joists!
+
+![](/images/0519.jpeg)
+
+And with a little trial and error, lay the replacement pine boards.
+
+![](/images/0521.jpeg)
+
+![](/images/0522.jpeg)
+
+![](/images/0524.jpeg)
+
+
+
+
+
 
 
