@@ -68,6 +68,8 @@ And with a little trial and error, lay the replacement pine boards.
 
 ![](/images/0524.jpeg)
 
+we'll have just enough boards!
+
 
 
 
