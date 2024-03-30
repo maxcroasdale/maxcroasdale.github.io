@@ -36,7 +36,7 @@ Sanding.
 
 ![](/images/6721.jpeg)
 
-## Stage three
+## Stage three - Saturday 30th March
 
 Remove the old chipboard floor. 
 
@@ -68,7 +68,7 @@ And with a little trial and error, lay the replacement pine boards.
 
 ![](/images/0524.jpeg)
 
-we'll have just enough boards!
+We'll have just enough boards!
 
 
 
