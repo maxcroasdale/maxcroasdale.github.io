@@ -70,6 +70,24 @@ And with a little trial and error, lay the replacement pine boards.
 
 We'll have just enough boards!
 
+## Stage four - Sunday 31st March
+
+Cut the boards to size and lay them.
+
+![](/images/0525.jpeg)
+
+![](/images/0526.jpeg)
+
+![](/images/0527.jpeg)
+
+
+![](/images/0529.jpeg)
+
+![](/images/0530.jpeg)
+
+![](/images/0531.jpeg)
+
+![](/images/0532.jpeg)
 
 
 
