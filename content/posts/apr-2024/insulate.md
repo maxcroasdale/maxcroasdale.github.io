@@ -35,5 +35,16 @@ Take the boards up.
 
 Replace the boards and secure.
 
+![](/images/6825.jpeg)
+
+![](/images/6827.jpeg)
+
+![](/images/6833.jpeg)
+
+
 ![](/images/0547.jpeg)
+
+Done in!
+
+![](/images/6837.jpeg)
 
