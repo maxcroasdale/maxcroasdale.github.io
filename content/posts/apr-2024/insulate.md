@@ -26,25 +26,23 @@ Order the boards.
 
 Take the boards up.
 
+
+
 ![](/images/0541.jpeg)
 
- and insert the wool-felt.
+![](/images/0542.jpeg)
 
+ and insert the wool-felt.
 
 ![](/images/0543.jpeg)
 
 Replace the boards and secure.
 
-![](/images/6825.jpeg)
-
-![](/images/6827.jpeg)
-
-![](/images/6833.jpeg)
-
+![](/images/0545.jpeg)
 
 ![](/images/0547.jpeg)
 
-Done in!
 
-![](/images/6837.jpeg)
+
+
 
