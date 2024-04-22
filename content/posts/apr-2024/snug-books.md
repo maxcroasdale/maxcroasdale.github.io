@@ -18,6 +18,4 @@ feature_image_alt:
 ---
 Books make a room. And Led Zeppelin posters...
 
-![](/images/6916.jpeg)
-
 ![](/images/6917.jpeg)
