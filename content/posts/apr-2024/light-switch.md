@@ -20,9 +20,31 @@ Reroute the cable and make good the wall.
 
 ![](/images/0607.jpeg)
 
+![](/images/0615.jpeg)
+
+![](/images/0616.jpeg)
+
+![](/images/0618.jpeg)
+
+![](/images/0619.jpeg)
+
 ![](/images/0608.jpeg)
 
-![](/images/0610.jpeg)
+
+![](/images/0620.jpeg)
+
+![](/images/0622.jpeg)
+
+![](/images/0624.jpeg)
 
 ![](/images/0609.jpeg)
+
+![](/images/06021jpeg)
+
+
+
+
+
+
+
 
