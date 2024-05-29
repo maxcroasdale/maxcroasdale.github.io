@@ -17,7 +17,8 @@ feature_image_alt:
 
 ---
 The second Spring public holiday gives us a three day run at the installing the staircase.
-This has been a Heroic effort and a worthy epic. We've removed the old ladder to the loft, created space and 
+This has been a Heroic effort and a worthy Epic. Over the last few weeks we've removed 
+the old ladder to the loft, rerouted cables, replastered bits of walls, redecorated, created space and 
 constructed a modern staircase that's a good deal safer and sturdy to use.
 
 Prop the main pre-built upper part and add the main support to get it stable.
@@ -46,14 +47,14 @@ Kite winder...
 
 ![](/images/0698.jpeg)
 
-This job needs a great deal of visualising and thought before construction.
+This job needs a great deal of visualising and thought before construction. This is time well spent.
 
 ![](/images/0699.jpeg)
 
 ![](/images/0702.jpeg)
 
 
-Use a rubber mallet to insert dowels and then trim them.
+Use a rubber mallet to insert dowels and then trim them. Don't be afraid to give it a good whack!
 
 ![](/images/7077.jpeg)
 

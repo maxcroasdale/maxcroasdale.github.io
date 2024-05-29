@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt: 
 
 ---
-reorder books with the Dressing room.
+Reorder books with the Dressing room.
 
 
 
