@@ -121,3 +121,9 @@ Let's let the glue dry for a week before trying it!
 
 ![](/images/7093.jpeg)
 
+June 6th Secure the stairs.
+
+We'll secure the new staircase with screws on the top floor and the wall. Be careful and avoid cables.
+
+![](/images/0756.jpeg)
+
