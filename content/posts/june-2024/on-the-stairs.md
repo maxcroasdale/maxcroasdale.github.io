@@ -21,8 +21,6 @@ Strip the stairs of several layers of paint.
 
 ![](/images/0767.jpeg)
 
-![](/images/0767.jpeg)
 
-![](/images/0767.jpeg)
+![](/images/7373.jpeg)
 
-![](/images/0767.jpeg)
