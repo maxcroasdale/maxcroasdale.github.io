@@ -16,7 +16,13 @@ feature_image:
 feature_image_alt:
 
 ---
-Apply Bitumen remover..
+Apply Bitumen remover...
+
+![](/images/7389.jpeg)
+
+![](/images/7390.jpeg)
+
+![](/images/7392.jpeg)
 
 ![](/images/0775.jpeg)
 
@@ -25,10 +31,16 @@ Apply Bitumen remover..
 This will be very hard work for very little gain. 
 
 
-I've drilled a 9inch pilot hole in the floor and still in dry concrete. So where is the water ingress? Between floor and wall is my guess.
+I've drilled a 9inch pilot hole in the floor and still in dry concrete. 
+So where is the water ingress? Between floor and wall is my guess.
 
 
-Rethink.
+
+![](/images/7394.jpeg)
+
+![](/images/7395.jpeg)
+
+
 
 My thinking is to:
 
