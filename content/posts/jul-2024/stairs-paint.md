@@ -1,9 +1,9 @@
 ---
-title: Paint the stairs
-seo_title: Paint the stairs
+title: Stairs paint
+seo_title: Stairs paint
 summary:
 description:
-slug: Paint the stairs
+slug: Stairs paint
 author: <no value>
 
 draft: false
