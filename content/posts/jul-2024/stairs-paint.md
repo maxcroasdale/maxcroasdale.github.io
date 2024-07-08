@@ -1,16 +1,16 @@
 ---
-title: Stairs paint
-seo_title: Stairs paint
+title: stairs paint
+seo_title: stairs paint
 summary:
 description:
-slug: Stairs paint
+slug: stairs paint
 author: <no value>
 
 draft: false
-date: 2024-07-4
+date: 2024-07-04
 lastmod:
 expiryDate:
-publishDate: 2024-07-4
+publishDate: 2024-07-04
 
 feature_image:
 feature_image_alt:
