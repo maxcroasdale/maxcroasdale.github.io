@@ -17,7 +17,7 @@ feature_image_alt:
 
 ---
 
-Paint the stairwell.
+Paint the stairwell. I've only got half a tin of paint, but I'll get into the corners and round the beams to make a start.
 
 
 ![](/images/0794.jpeg)
