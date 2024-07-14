@@ -26,7 +26,6 @@ Paint the stairwell. I've only got half a tin of paint, but I'll get into the co
 
 ![](/images/0796.jpeg)
 
-![](/images/0797.jpeg)
 
 ![](/images/0798.jpeg)
 
