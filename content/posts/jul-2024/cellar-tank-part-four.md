@@ -77,18 +77,20 @@ Thankfully there's not much dust.
 
 ![](/images/0867.jpeg)
 
-Take a break.
+Take a break. This is hard physical labour and I'm not sure if it's making me stronger or killing me.
 
 ![](/images/0868.jpeg)
 
 
 ![](/images/0869.jpeg)
 
-The I hit steel. Whoever prep'd this cellar did a good job. My pilot was 9inches deep and I think it goes way deeper than that. 
+Then I hit steel. Whoever prep'd this cellar did a good job with a steel frame and depth of concrete. My pilot was 9inches deep and I think it goes way deeper than that. 
 I decide to stop at the steel. I'm down about 4inches. This will be deep
 enough as a sump. I just need to make sure that the sump is wide enough to take the pump.
 
 ![](/images/0870.jpeg)
+
+I had originally planned to chip out the hole with a small pick and axe. How they ever dug their way out of Stalag Luft III with little more than spoons is a mystery.
 
 ![](/images/0871.jpeg)
 
