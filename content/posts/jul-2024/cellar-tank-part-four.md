@@ -38,8 +38,6 @@ As for minimising dust, I very quickly realise that this will not happen. I'm in
 I cut the square to a depth of half the grinder wheel which is about 3inches. That'll have to do.
 
 
-
-
 ![](/images/0858.jpeg)
 
 The Somme.
