@@ -90,8 +90,7 @@ enough as a sump. I just need to make sure that the sump is wide enough to take 
 
 ![](/images/0870.jpeg)
 
-I had originally planned to chip out the hole with a small pick and axe. I would still be doing this at Christmas!
-How they ever dug their way out of Stalag Luft III with little more than spoons is a mystery.
+
 
 ![](/images/0871.jpeg)
 
