@@ -19,4 +19,4 @@ Terracotta tiles.
 
 Aug 2024
 
-![](/images/0895.jpeg)
+![](/images/0889.jpeg)
