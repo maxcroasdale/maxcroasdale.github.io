@@ -17,5 +17,5 @@ Terracotta tiles.
 
 ![](/images/9419.jpeg)
 
-Our first big job was to attempt to clean the beams of paint and grime. We were not rewarded alas: a 12 hour stint of the most messy and humid toiling one Saturday returned questionable results. 
-Therefore we've employed professionals to do this job.
+Aug 2024
+![](/images/0890.jpeg)
