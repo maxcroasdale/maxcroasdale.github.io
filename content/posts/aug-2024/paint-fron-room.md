@@ -35,6 +35,7 @@ Prep and paint the front room. It's fiddly and monotonous to plaster the sides o
 
 ![](/images/0889.jpeg)
 
+
 ![](/images/0890.jpeg)
 
 ![](/images/0894.jpeg)
