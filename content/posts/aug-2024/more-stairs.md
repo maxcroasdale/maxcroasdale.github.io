@@ -1,9 +1,9 @@
 ---
-title: More klingstrip on the stairs
-seo_title: More klingstrip on the stairs
+title: More Klingstrip on the stairs
+seo_title: More Klingstrip on the stairs
 summary:
 description:
-slug: More klingstrip on the stairs
+slug: More Klingstrip on the stairs
 author: <no value>
 
 draft: false
@@ -16,6 +16,8 @@ feature_image:
 feature_image_alt:
 
 ---
-It's the nth time with Klingstrip but they are beggining to show their true potential.
+It's the nth time with Klingstrip but they are beginning to show their true potential.
 
 ![](/images/0888.jpeg)
+
+![](/images/0828.jpeg)
