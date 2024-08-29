@@ -18,8 +18,8 @@ feature_image_alt:
 ---
 
 
-Staining and sanding the boards at the periphery to blend them with the other newly stained boards. 
-This involves a lot of hard sanding with the mouse. 
+The boards at the periphery of the bedroom were painted black. Sand them, apply a stain then rub and sand it back to blend them with the other newly stained boards. 
+This involves quite a lot of hard sanding with the mouse. 
 
 
 
