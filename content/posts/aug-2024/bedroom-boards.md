@@ -28,3 +28,7 @@ This involves a lot of hard sanding with the mouse.
 ![](/images/1020.jpeg)
 
 ![](/images/1022.jpeg)
+
+![](/images/1042.jpeg)
+
+![](/images/1043.jpeg)
