@@ -18,6 +18,7 @@ feature_image_alt:
 ---
 Remove the lino to reveal... more lino tiles... and then hardboard. 
 
+
 This will come up when we redo the plumbing in the kitchen and be replaced with proper boards.
 
 ![](/images/1034a.jpeg)
