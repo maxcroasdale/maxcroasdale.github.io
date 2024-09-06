@@ -36,3 +36,11 @@ A mix of solid and hollow wall makes for an interesting task.
 
 ![](/images/1028.jpeg)
 
+and the shelves arrived early Sept...
+
+![](/images/1029a.jpeg)
+
+![](/images/1030a.jpeg)
+
+![](/images/1031a.jpeg)
+
