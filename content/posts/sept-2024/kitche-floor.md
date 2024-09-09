@@ -1,5 +1,5 @@
 ---
-title: kitchen floor
+title: Kitchen floor
 seo_title: kitchen floor
 summary:
 description:
@@ -24,3 +24,7 @@ We'll replace the floor with proper boards when we redo the plumbing in the kitc
 ![](/images/1034a.jpeg)
 
 ![](/images/1035a.jpeg)
+
+![](/images/1038.jpeg)
+
+![](/images/1039.jpeg)
