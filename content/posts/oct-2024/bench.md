@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 
 ---
-To match the table bought at auction a bench made of old bits of wood.
+To match the table bought at auction we're putting together a bench made of old bits of wood.
 
 ![](/images/1126.jpeg)
 
