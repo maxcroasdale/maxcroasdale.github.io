@@ -17,7 +17,7 @@ feature_image_alt:
 
 ---
 Using the leftover flooring to make shelves for the workshop. There's one very long one that's made of several bits.
-
+I'm doubling for strength.
 
 ![](/images/1179.jpeg)
 
