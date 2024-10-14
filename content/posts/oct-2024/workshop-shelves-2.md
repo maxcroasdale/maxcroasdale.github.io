@@ -34,3 +34,9 @@ Trim off the excess.
 Glue and get it flat to dry.
 
 ![](/images/1206.jpeg)
+
+Overnight and the glue has set. Voila!
+
+![](/images/1208.jpeg)
+
+![](/images/1209.jpeg)

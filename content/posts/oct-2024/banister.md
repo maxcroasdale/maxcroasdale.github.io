@@ -19,9 +19,11 @@ feature_image_alt:
 Some ingenius thinking and reworking of a piece of wood will continue the design of the staircase.
 
 Plane it.
+
 ![](/images/1182.jpeg)
 
 Sand it.
+
 ![](/images/1177.jpeg)
 
 
