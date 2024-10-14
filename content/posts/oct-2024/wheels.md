@@ -16,7 +16,8 @@ feature_image:
 feature_image_alt:
 
 ---
-I'm relocating wheels from walls to the high alcove at the front of the workshop. This really improves the light at the bike section.
+I'm relocating wheels from walls to the high alcove at the front of the workshop. 
+This really improves the light at the bike section and opens up the walls for shelving.
 
 
 ![](/images/1164.jpeg)
