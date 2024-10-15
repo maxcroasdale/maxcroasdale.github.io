@@ -19,3 +19,15 @@ feature_image_alt:
 Attending to the metal windows and wood surrounds.
 
 ![](/images/1202.jpeg)
+
+![](/images/7934.jpeg)
+
+![](/images/7932.jpeg)
+
+![](/images/7933.jpeg)
+
+![](/images/7935.jpeg)
+
+![](/images/7936.jpeg)
+
+![](/images/7937.jpeg)
