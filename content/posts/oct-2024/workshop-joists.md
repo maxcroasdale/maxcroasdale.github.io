@@ -22,4 +22,4 @@ Tidy up the joists and ceiling in the workshop with some Zinsner primer and stai
 
 ![](/images/1222.jpeg)
 
-![](/images/1223.jpeg)
+![](/images/1258.jpeg)
