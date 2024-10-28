@@ -34,12 +34,6 @@ Cut the whole thing back and remove all the supports. We'll start again in the s
 ![](/images/8201.jpeg)
 
 
-
-
-
-
-
-
 ![](/images/1254.jpeg)
 
 ![](/images/1256.jpeg)

@@ -16,7 +16,8 @@ feature_image:
 feature_image_alt:
 
 ---
-Bending a right-angled bracket to fit the bannister support takes an ingenious form.
+Bending a right-angled bracket to fit the bannister support takes a bit of thought and ingenuity. 
+Leverage a longer piece of wood to make a controlled bend.
 
 ![](/images/1242.jpeg)
 
