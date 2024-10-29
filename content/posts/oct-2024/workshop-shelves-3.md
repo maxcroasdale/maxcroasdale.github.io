@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 
 ---
-Add another shelf to the far side and start painting the repurposed flooring-shelves.
+Add another shelf to the far side and start painting the repurposed flooring (shelves).
 
 ![](/images/1272.jpeg)
 
