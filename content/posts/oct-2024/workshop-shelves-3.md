@@ -24,4 +24,5 @@ Add another shelf to the far side and start painting the repurposed flooring (sh
 
 ![](/images/1274.jpeg)
 
+
 ![](/images/1275.jpeg)
