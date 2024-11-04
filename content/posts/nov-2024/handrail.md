@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 
 ---
-Joining the two parts of the handrail for stability. Ingeniius use of a cast iron bracket
+Joining the two parts of the handrail for stability. Ingenius use of a cast iron bracket.
 
 ![](/images/8249.jpeg)
 
