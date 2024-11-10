@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 
 ---
-Paint the 22mm moisture resistant mdf shelves and finish off the brackets. The workshop is done!
+Paint the 22mm moisture resistant mdf shelves and finish off the brackets. That completes the workshop.
 
 ![](/images/1288.jpeg)
 
