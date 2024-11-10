@@ -7,10 +7,10 @@ slug: Workshop shelves 4
 author: <no value>
 
 draft: false
-date: 2024-11-09
+date: 2024-11-10
 lastmod:
 expiryDate:
-publishDate: 2024-11-09
+publishDate: 2024-11-10
 
 feature_image:
 feature_image_alt:
