@@ -18,7 +18,8 @@ feature_image_alt:
 ---
 Destroy the kitchen part one. 
 Remove the tall cupboard and under-the-stairs-worktop to 
-create space and enable better visualisation of the space.
+create space and enable better visualisation of the space for planning the kitchen. This is the start of the next
+big job that'll happen in the Spring.
 
 ![](/images/1295.jpeg)
 
