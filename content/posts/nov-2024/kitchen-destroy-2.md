@@ -27,6 +27,9 @@ Remove a segment of hardboard to see what's beneath.
 
 ![](/images/1352.jpeg)
 
+
+There's quite a void down there...
+
 ![](/images/1353.jpeg)
 
 ![](/images/1356.jpeg)
