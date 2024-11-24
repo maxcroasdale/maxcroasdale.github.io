@@ -1,9 +1,9 @@
 ---
-title: Kitchen destroy part 1
-seo_title: Kitchen destroy part 1
+title: Kitchen destroy part One
+seo_title: Kitchen destroy part One
 summary:
 description:
-slug: Kitchen destroy part 1
+slug: Kitchen destroy part One
 author: <no value>
 
 draft: false
