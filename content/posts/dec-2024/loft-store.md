@@ -28,3 +28,5 @@ It's difficult, dusty work in a confined space. I've laid a floor with bits of r
 I paint the chimney stack only to find that the mortar is rather damp. Clean it out and re-point.
 
 ![](/images/1412.jpg)
+
+![](/images/8434.jpg)
