@@ -20,8 +20,6 @@ New Year's day 2025 - patch and paint the loft.
 
 ![](/images/1410.jpg)
 
-<img src="/images/1406.jpg" width="200" height="100">
-
 ![](/images/1406.jpg)
 
 ![](/images/1416.jpg)
