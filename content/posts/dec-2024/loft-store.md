@@ -21,8 +21,7 @@ It's difficult, dusty work in a confined space. I've laid a floor with bits of r
 The tricky part was to level the floor by adding to the joists at the far end by the chimney stack. 
 This was slow and painstaking three-day-job made body-aching by the lack of space. 
 
-If this house is an example of
-life-as-antagonism then `what does not kill me, makes me stronger...`
+
 
 ![](/images/1390.jpg)
 
@@ -34,5 +33,8 @@ I paint the chimney stack only to find that the mortar is rather damp. Clean it 
 I'll paint it after the summer when it has hopefully dried out.
 
 ![](/images/1412.jpg)
+
+If this house is an example of
+life-as-antagonism then `what does not kill me, makes me stronger...`
 
 ![](/images/8434.jpg)
