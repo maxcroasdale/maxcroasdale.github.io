@@ -19,7 +19,10 @@ feature_image_alt:
 Time to tackle the grotty part of the loft. There's not much space but it will be useful storage. 
 It's difficult, dusty work in a confined space. I've laid a floor with bits of recycled chip and hardboard.
 The tricky part was to level the floor by adding to the joists at the far end by the chimney stack. 
-This was slow and painstaking given the lack of space. 
+This was slow and painstaking three-day-job made body-aching by the lack of space. 
+
+If this house is an example of
+life-as-antagonism then `what does not kill me, makes me stronger...`
 
 ![](/images/1390.jpg)
 
