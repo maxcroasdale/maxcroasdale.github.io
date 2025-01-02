@@ -18,10 +18,12 @@ feature_image_alt:
 ---
 New Year's day 2025 - patch and paint the loft.
 
-![](/images/1410.jpg)
+![](/images/1410.jpeg)
 
-![](/images/1406.jpg)
+![](/images/1406.jpeg)
 
-![](/images/1416.jpg)
+![](/images/1416.jpeg)
+
+![](/images/1419.jpeg)
 
 
