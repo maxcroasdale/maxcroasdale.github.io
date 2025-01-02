@@ -29,11 +29,16 @@ This was slow and painstaking three-day-job made body-aching by the lack of spac
 ![](/images/1389.jpeg)
 
 I paint the chimney stack only to find that the mortar is rather damp. Clean it out and re-point.
-I'll paint it after the summer when it has hopefully dried out.
+I'll paint it after the summer when it has dried out. Hopefully.
 
 ![](/images/1412.jpeg)
 
 If this house is an example of
-life-as-antagonism then `what does not kill me, makes me stronger...`
+
+`life-as-antagonism`
+
+_then_ 
+
+`what does not kill me, makes me stronger...`
 
 ![](/images/8434.jpeg)
