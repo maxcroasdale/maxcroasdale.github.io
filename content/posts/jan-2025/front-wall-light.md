@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 
 ---
-A wall light...
+A wall light...   
 
 ![](/images/1424.jpeg)
 
