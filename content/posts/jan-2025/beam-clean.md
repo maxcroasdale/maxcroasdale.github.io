@@ -18,6 +18,8 @@ feature_image_alt:
 ---
 The final beams to clean. These were hidden by the `tardis` - water tank.
 
+Apply the stuff and wrap in clingfilm. Wait 12 hours...
+
 ![](/images/1422.jpeg)
 
 ![](/images/1423.jpeg)
@@ -27,4 +29,9 @@ The final beams to clean. These were hidden by the `tardis` - water tank.
 
 
 ![](/images/1430.jpeg)
+
+
+After 12 hours... disappointing results. 
+
+![](/images/1443.jpeg)
 
