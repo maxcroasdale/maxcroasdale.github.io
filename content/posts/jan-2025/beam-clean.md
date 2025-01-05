@@ -35,3 +35,7 @@ After 12 hours... disappointing results.
 
 ![](/images/1443.jpeg)
 
+But, after a scrub and another few hours to start the drying process the beams have changed colour.
+
+![](/images/1447.jpeg)
+

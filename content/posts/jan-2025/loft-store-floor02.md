@@ -38,6 +38,9 @@ I'm using various left over bits of timber and that useless bed I bought as a st
 
 ![](/images/1446.jpeg)
 
-Another day to finish.
+Another day to finish. Patching the sides is a bit fiddly, but all these panels are removable and they do 
+keep the draft out.
 
+![](/images/1448.jpeg)
 
+![](/images/1450.jpeg)
