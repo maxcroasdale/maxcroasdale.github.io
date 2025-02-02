@@ -1,6 +1,6 @@
 ---
 title: "Workshop wiring 3 -  tidy the cables"
-date: 2023-01-07T16:04:01Z
+date: 2024-01-07T16:04:01Z
 
 draft: false
 summary:

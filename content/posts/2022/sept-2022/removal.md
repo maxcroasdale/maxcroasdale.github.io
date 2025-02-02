@@ -17,6 +17,7 @@ toc: false
 related: false
 newsletter: false
 disable_comments: false
+
 ---
 Max doing what he does best: removal and destruction.
 
