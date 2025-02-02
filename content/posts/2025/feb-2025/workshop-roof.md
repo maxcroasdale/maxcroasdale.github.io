@@ -14,7 +14,6 @@ publishDate: 2025-02-02
 
 feature_image:
 feature_image_alt:
-
 ---
 Using leftover cladding to insulate the workshop roof.
 
