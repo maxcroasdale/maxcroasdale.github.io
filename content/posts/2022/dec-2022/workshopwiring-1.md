@@ -7,7 +7,6 @@ description:
 slug: workshopwiring-1
 author: MC
 
-
 lastmod:
 expiryDate:
 publishDate:
