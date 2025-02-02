@@ -18,8 +18,6 @@ related: false
 newsletter: false
 disable_comments: false
 ---
-
-
 Week three of the wiring. First let's tidy those cables.
 
 ![](/images/3419.jpeg)
