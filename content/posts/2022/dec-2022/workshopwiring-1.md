@@ -15,6 +15,7 @@ related: false
 newsletter: false
 disable_comments: false
 ---
+
 After a near four week hiatus due to hesitancy using the car, we're back. An independent mechanic has opined that there's nothing operationally wrong with the clutch, so I'll modify my gear changing technique and hope there's no recurrence of the burning smell.
 
 Relentlessly busy at work - finished Blueprint 5 at 6:30 Friday December 23!
