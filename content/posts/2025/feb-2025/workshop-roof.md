@@ -15,7 +15,7 @@ publishDate: 2025-02-02
 feature_image:
 feature_image_alt:
 ---
-Using leftover cladding to insulate the workshop roof.
+The recent frost covered the roof - except a small area that was missing polystyrene cladding. Using leftover cladding I've patched.
 
 ![](/images/1524.jpeg)
 
