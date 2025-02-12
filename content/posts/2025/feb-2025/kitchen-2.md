@@ -15,11 +15,15 @@ publishDate: 2025-02-11
 feature_image:
 feature_image_alt:
 ---
-The plan.
+The planning.
 
 ![](/images/1543.jpeg)
 
+The Plan.
+
 ![](/images/1544.jpeg)
+
+The instructions.
 
 ![](/images/1545.jpeg)
 
