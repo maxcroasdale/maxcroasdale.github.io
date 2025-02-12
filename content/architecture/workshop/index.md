@@ -40,7 +40,7 @@ The main power ring: a simple socket radial using junction boxes.
 
 ![](/images/9511.jpeg)
 
-See [here](/posts/oct-2022/power-socket) for the post that describes this job.
+See [here](/posts/2022/oct-2022/power-socket) for the post that describes this job.
 
 And the lighting:
 
@@ -63,11 +63,11 @@ After painting:
 
 ### Wiring
 
-[One](/posts/dec-2022/workshopwiring-1)
+[One](/posts/2022/dec-2022/workshopwiring-1)
 
-[Two](/posts/dec-2022/workshopwiring-2)
+[Two](/posts/2022/dec-2022/workshopwiring-2)
 
-[Three](/posts/dec-2022/workshopwiring-3)
+[Three](/posts/2023/jan-2023/workshopwiring-3)
 
 ### March 2023
 
