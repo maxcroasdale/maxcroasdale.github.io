@@ -5,7 +5,7 @@ date: 2023-03-24T19:46:02Z
 draft: false
 summary:
 description:
-slug: garage-tidy-light
+slug: garagetidyandlights
 author: MC
 
 

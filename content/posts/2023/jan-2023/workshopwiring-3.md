@@ -48,7 +48,7 @@ Now all that remains is that I connected the new rings to the fusebox. Easy...
 
 ![](/images/9653.jpeg)
 
-[The lights are on](/posts/mar-2023/garage-tidy-light/) 
+[The lights are on](/posts/2023/mar-2023/garagetidyandlights/) 
 
-[New fuse box](/posts/mar-2023/electricians/) 
+[New fuse box](/posts/2023/mar-2023/electricians/) 
 
