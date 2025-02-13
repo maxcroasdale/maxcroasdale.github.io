@@ -47,7 +47,7 @@ And the lighting:
 ![](/images/workshop-lightingring.png)
 
 
-See [here](/posts/nov-2022/workshop-lights) for the post that describes this job.
+See [here](/posts/2022/nov-2022/workshop-lights) for the post that describes this job.
 
 
 After painting:
