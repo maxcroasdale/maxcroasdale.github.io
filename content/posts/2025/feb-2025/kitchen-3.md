@@ -35,7 +35,7 @@ Empty the cupboards and use only what we need. Then remove them.
 ![](/images/1572.jpeg)
 
 
-![](/images/1572.jpeg)
+![](/images/1572a.jpeg)
 
 Remove those tiles.
 
