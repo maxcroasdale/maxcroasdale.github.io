@@ -15,7 +15,8 @@ publishDate: 2025-02-15
 feature_image:
 feature_image_alt:
 ---
-Add a spotlight to illuminate bike maintenance. Add a spur to the existing ring. Add this Englepoise spot bought in the winter sale for a song.
+Add a spotlight to illuminate bike maintenance. Add a spur to the existing ring. 
+Add this Anglepoise spot bought in the winter sale for a 70% discount.
 
 
 
