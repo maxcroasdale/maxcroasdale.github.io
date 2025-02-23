@@ -18,6 +18,8 @@ feature_image_alt:
 Add a spotlight to illuminate bike maintenance. Add a spur to the existing ring. 
 Add this Anglepoise spot bought in the winter sale for a 70% discount.
 
+Here's the updated architectural image:
+![](/images/light-ring-work-25.png)
 
 
 ![](/images/1599.jpeg)

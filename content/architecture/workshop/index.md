@@ -81,6 +81,6 @@ After painting:
 
 ### Feb 2025
 
-![](/images/light-ring-work25.png)
+![](/images/light-ring-work-25.png)
 
 ![](/images/1645.jpeg)

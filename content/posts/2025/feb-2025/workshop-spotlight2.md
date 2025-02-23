@@ -17,8 +17,6 @@ feature_image_alt:
 ---
 Add two more spotlights to illuminate activities in the workshop.
 
-![](/images/light-ring-work25.png)
-
 ![](/images/1645.jpeg)
 
 Cut the cable pipe.
@@ -42,5 +40,7 @@ Try it.
 ![](/images/1635.jpeg)
 
 ![](/images/1643.jpeg)
+
+![](/images/light-ring-work-25.png)
 
 
