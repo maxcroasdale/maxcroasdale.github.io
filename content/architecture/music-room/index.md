@@ -45,9 +45,7 @@ July, 2023
 - Shelves up, books in
 - Audio system back
 
-![](/images/0154.jpeg)
+![](/images/1646.jpeg)
 
-
-
-![](/images/0162.jpeg)
+![](/images/1647.jpeg)
 

@@ -78,3 +78,9 @@ After painting:
 ![](/images/0025.jpeg)
 
 ![](/images/0024.jpeg)
+
+### Feb 2025
+
+![](/images/light-ring-work25.png)
+
+![](/images/1645.jpeg)
