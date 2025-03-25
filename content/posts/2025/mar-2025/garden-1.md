@@ -26,3 +26,14 @@ with the few bricks that are lying around.
 
 ![](/images/1777.jpeg )
 
+Use up the little mortar I have left to build the wall.
+
+![](/images/1779.jpeg )
+
+![](/images/1780.jpeg )
+
+![](/images/1781.jpeg )
+
+
+![](/images/1783.jpeg )
+
