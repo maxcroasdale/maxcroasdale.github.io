@@ -1,9 +1,9 @@
 ---
-title: Garden part two
-seo_title: Garden part two
+title: Garden wall part two
+seo_title: Garden wall part two
 summary:
 description:
-slug: Garden part two
+slug: Garden wall part two
 author: <no value>
 
 draft: false
