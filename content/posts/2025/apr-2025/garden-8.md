@@ -1,5 +1,5 @@
 ---
-title: Garden path part two
+title: Garden path part three
 seo_title: Garden path part three
 summary:
 description:
