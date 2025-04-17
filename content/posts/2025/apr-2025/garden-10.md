@@ -15,7 +15,7 @@ publishDate: 2025-04-17
 feature_image:
 feature_image_alt:
 ---
-Dig and repeat.
+Dig, level, add gravel, fabric and sand.  Repeat.
 
 ![](/images/1884.jpeg )
 
