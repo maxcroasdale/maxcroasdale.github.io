@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 ---
 
-Place a weed deterent, cover with sand and even out the surface to place the slabs. 
+Place a weed deterrent, cover with sand and even out the surface to place the slabs. 
 This is quite a challenge and involves a good deal of trial and error.
 
 ![](/images/1873.jpeg )

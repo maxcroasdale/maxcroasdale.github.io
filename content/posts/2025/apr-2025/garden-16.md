@@ -15,7 +15,7 @@ publishDate: 2025-04-24
 feature_image:
 feature_image_alt:
 ---
-The last day of digging out the channel for the pathing. 
+The last day of digging out the channel for the paving. 
 
 ![](/images/1997.jpeg )
 
