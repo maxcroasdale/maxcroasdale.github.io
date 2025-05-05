@@ -17,8 +17,9 @@ feature_image_alt:
 ---
 Make room in the Workshop for the reclaimed pine that's arriving next week.
 
+The old door-table looks good in the front room. I think it'll stay.
+
 ![](/images/9330.jpeg )
 
-![](/images/9339.jpeg )
 
 ![](/images/9344.jpeg )
