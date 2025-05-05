@@ -1,9 +1,9 @@
 ---
-title: Angle grinder
-seo_title: Angle grinder
+title: Garden path part seventeen
+seo_title: Garden path part seventeen
 summary:
 description:
-slug: Angle grinder
+slug: Garden path part seventeen
 author: <no value>
 
 draft: false
@@ -15,6 +15,7 @@ publishDate: 2025-05-05
 feature_image:
 feature_image_alt:
 ---
+Angle grinder.
 
 ![](/images/2069.jpeg )
 
