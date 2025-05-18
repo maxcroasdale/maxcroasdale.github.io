@@ -20,6 +20,8 @@ Digging out the trench to make it deeper and level!
 
 ![](/images/2187.jpeg )
 
+I've been doing this early mornings and after work for this week.
+
 16-17th May
 
 GFI - get the foundation layer in.
