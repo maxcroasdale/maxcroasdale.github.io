@@ -19,3 +19,21 @@ The second step is proving to be tricky to get level. I've had a first course of
 Digging out the trench to make it deeper and level!
 
 ![](/images/2187.jpeg )
+
+16-17th May
+
+GFI - get the foundation layer in.
+
+![](/images/2189.jpeg )
+
+![](/images/2190.jpeg )
+
+![](/images/2191.jpeg )
+
+And then the second and third course.
+
+![](/images/2193.jpeg )
+
+![](/images/2194.jpeg )
+
+![](/images/2195.jpeg )
