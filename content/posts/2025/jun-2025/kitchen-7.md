@@ -15,7 +15,7 @@ publishDate: 2025-06-06
 feature_image:
 feature_image_alt:
 ---
-Cut another bit of the old worktop i=out to reveal the heating pipes behind
+Cut another bit of the old worktop out to reveal the heating pipes behind.
 
 
 ![](/images/2296.jpeg )
