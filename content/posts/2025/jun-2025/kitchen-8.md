@@ -17,11 +17,11 @@ feature_image_alt:
 ---
 Remove the sink and last part of the worktop.
 
-![](/images/9612.jpeg )
-
 ![](/images/9610a.jpeg )
 
 ![](/images/9613a.jpeg )
+
+![](/images/9612.jpeg )
 
 ![](/images/9617.jpeg )
 
