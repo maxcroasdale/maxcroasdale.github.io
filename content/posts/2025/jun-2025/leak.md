@@ -1,23 +1,23 @@
 ---
-title: Kitchen - the plan
-seo_title: Kitchen - the plan
+title: Leak
+seo_title: Leak
 summary:
 description:
-slug: Kitchen - the plan
+slug: Leak
 author: <no value>
 
 draft: false
-date: 2025-06-09
+date: 2025-06-12
 lastmod:
 expiryDate:
-publishDate: 2025-06-09
+publishDate: 2025-06-12
 
 feature_image:
 feature_image_alt:
 ---
 Install a hand held shower for cleaning the bath. 
 
-![](/images/2313.jpeg )
+![](/images/2312.jpeg )
 
 It leaked!
 
