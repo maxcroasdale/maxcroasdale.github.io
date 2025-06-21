@@ -22,6 +22,8 @@ Smooth the old boards with a belt sander and P40 grit. Attach a hoover to collec
 
 ![](/images/9713a.jpeg )
 
+![](/images/9711.jpeg )
+
 ![](/images/2454.jpeg )
 
 ![](/images/2455.jpeg )
