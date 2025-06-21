@@ -43,6 +43,17 @@ New water outflow pipes for the washing machine, dishwasher and sink.
 
 ![](/images/2439.jpeg )
 
+![](/images/2451.jpeg )
+
+![](/images/2450.jpeg )
+
+New copper in the cellar.
+
+![](/images/2447.jpeg )
+
+![](/images/2449.jpeg )
+
+
 First Celotex insulation board.
 
 ![](/images/2440.jpeg )
@@ -51,5 +62,7 @@ First Celotex insulation board.
 
 
 ![](/images/2442.jpeg )
+
+
 
 What a week!
