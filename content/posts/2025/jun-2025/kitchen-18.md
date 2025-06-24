@@ -16,7 +16,7 @@ feature_image:
 feature_image_alt:
 ---
 
-More celotex.
+More celotex. And a new rad.
 
 ![](/images/2463.jpeg )
 

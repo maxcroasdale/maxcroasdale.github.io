@@ -29,5 +29,3 @@ Dig out layers of concrete in the fireplace so that we can add new layers of con
 ![](/images/2469.jpeg )
 
 ![](/images/2470.jpeg )
-
-![](/images/2471.jpeg )
