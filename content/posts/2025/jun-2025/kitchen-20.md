@@ -8,7 +8,7 @@ author: <no value>
 
 draft: false
 date: 2025-06-24
-lastmod:
+lastmod: 2025-06-24
 expiryDate:
 publishDate: 2025-06-24
 
