@@ -7,10 +7,10 @@ slug: Kitchen part twenty
 author: <no value>
 
 draft: false
-date: 2025-06-24
-lastmod: 2025-06-24
+date: 2025-06-23
+lastmod: 
 expiryDate:
-publishDate: 2025-06-24
+publishDate: 2025-06-23
 
 feature_image:
 feature_image_alt:
