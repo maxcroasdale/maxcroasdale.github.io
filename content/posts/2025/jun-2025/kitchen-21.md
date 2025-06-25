@@ -1,9 +1,9 @@
 ---
-title: Kitchen part twenty-one
-seo_title: Kitchen part twenty-one
+title: Kitchen part twenty one
+seo_title: Kitchen part twenty one
 summary:
 description:
-slug: Kitchen part twenty-one
+slug: Kitchen part twenty one
 author: <no value>
 
 draft: false
@@ -69,3 +69,14 @@ A nice neat cut in around the hearth. A shame this will be hidden under the coun
 ![](/images/2514.jpeg )
 
 ![](/images/2515.jpeg )
+
+Getting there...
+
+![](/images/2517.jpeg )
+
+And then there was one...
+
+![](/images/2518.jpeg )
+
+Almost there...
+
