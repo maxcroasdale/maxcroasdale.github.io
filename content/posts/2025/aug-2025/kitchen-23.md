@@ -25,9 +25,9 @@ Shelves installed.
 
 ![](/images/2744.jpeg )
 
-Paint the hearth.
-
 ![](/images/2745.jpeg )
+
+Paint the hearth.
 
 ![](/images/2746.jpeg )
 
