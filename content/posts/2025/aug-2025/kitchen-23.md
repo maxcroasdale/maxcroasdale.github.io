@@ -21,9 +21,10 @@ Take the corner unit out, paint Zinsser to seal the wall.
 
 ![](/images/2743.jpeg )
 
-Shelves installed.
 
 ![](/images/2744.jpeg )
+
+
 
 ![](/images/2745.jpeg )
 
@@ -33,13 +34,20 @@ Paint the hearth.
 
 ![](/images/2747.jpeg )
 
-![](/images/2748.jpeg )
+
 
 ![](/images/2749.jpeg )
 
-![](/images/2750.jpeg )
+
+
+
+![](/images/2748.jpeg )
 
 ![](/images/2751.jpeg )
+
+Shelves installed.
+
+![](/images/2750.jpeg )
 
 ![](/images/2752.jpeg )
 
