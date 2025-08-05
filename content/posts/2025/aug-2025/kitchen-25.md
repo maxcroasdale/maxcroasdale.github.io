@@ -8,10 +8,10 @@ slug: Kitchen part thirty-nine
 author: <no value>
 
 draft: false
-date: 2025-08-03
+date: 2025-08-04
 lastmod:
 expiryDate:
-publishDate: 2025-08-03
+publishDate: 2025-08-04
 
 feature_image:
 feature_image_alt:
