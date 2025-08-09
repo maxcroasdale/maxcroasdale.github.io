@@ -32,4 +32,4 @@ I think I like the distressed look...
 
 ![](/images/distressed.jpeg)
 
-Go back to [part two](/posts/panelsparttwo) 
+Go back to [part two](/posts/2022/nov-2022/panelsparttwo) 

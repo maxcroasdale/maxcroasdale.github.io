@@ -38,7 +38,7 @@ Always cleaning!
 
 ![](/images/3204.jpeg)
 
-Go to [part three](/posts/nov-2022/panelspartthree) 
+Go to [part three](posts/2022/nov-2022/panelspartthree) 
 
-Go back to [part one](/posts/nov-2022/panels-one) 
+Go back to [part one](posts/2022/nov-2022/panelspartone) 
 
