@@ -1,6 +1,6 @@
 ---
-title: "Workshop wiring 1 - cabling"
-date: 2022-12-29T16:48:52Z
+title: Workshop wiring 1 - cabling
+date: 2022-12-29
 draft: false
 summary:
 description:
@@ -45,6 +45,6 @@ Then install the electrical boxes at roughly the same height.
 
 The walls are so non-straight that I'll probably not be able to fit them flush but they are secure enough.
 
-It's bastard freezing the workshop. But a good day's work. Go [here](/posts/dec-2022/workshopwiring-2/) for day two.
+It's bastard freezing the workshop. But a good day's work. Go [here](/posts/2022/dec-2022/workshopwiring-2/) for day two.
 
 

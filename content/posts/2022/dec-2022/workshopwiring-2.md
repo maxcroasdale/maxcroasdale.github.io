@@ -1,6 +1,6 @@
 ---
-title: "Workshop wiring 2 - junction boxes"
-date: 2022-12-30T15:50:27Z
+title: Workshop wiring 2 - junction boxes
+date: 2022-12-30
 draft: false
 summary:
 description:
@@ -45,4 +45,4 @@ By 3pm it's gone cold again and I'm feeling the pain of stretching. bending, and
 
 Lots done. Lots to do. 
 
-Go to the [Third part](/posts//dec-2022/workshopwiring-3/) 
+Go to the [Third part](/posts/2023/jan-2023/workshopwiring-3/) 
