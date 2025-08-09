@@ -1,15 +1,16 @@
 ---
-title: "Panels part one"
+title: Panels part one
 date: 2022-11-13T14:19:52Z
 draft: false
 summary:
 description:
-slug: panels-one
+slug: panels part one
 author: MC
 
 
 lastmod:
 expiryDate:
+date: 2022-11-13
 publishDate:
 
 toc: false
@@ -25,8 +26,6 @@ Years of accumulated paint.
 ![](/images/3128.jpeg)
 
 Slow, laborious and messy work.
-
-<!--Go to [part two](/posts/nov-2022/panelsparttwo)-->
 
 
 

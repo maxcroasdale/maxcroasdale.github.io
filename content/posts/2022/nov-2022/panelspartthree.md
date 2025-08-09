@@ -1,18 +1,15 @@
 ---
-title: "Panels part three"
+title: Panels part three
 date: 2022-12-30T14:19:52Z
-
 draft: false
 summary:
 description:
-slug: panels-three
+slug: panels part three
 author: MC
-
-
 lastmod:
 expiryDate:
+date: 2022-12-30
 publishDate:
-
 toc: false
 related: false
 newsletter: false
@@ -32,4 +29,3 @@ I think I like the distressed look...
 
 ![](/images/distressed.jpeg)
 
-Go back to [part two](/posts/2022/nov-2022/panelsparttwo) 
