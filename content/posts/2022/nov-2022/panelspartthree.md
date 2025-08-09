@@ -1,10 +1,9 @@
 ---
 title: Panels part three
-date: 2022-12-30T14:19:52Z
 draft: false
 summary:
 description:
-slug: panels part three
+slug: panels-part-three
 author: MC
 lastmod:
 expiryDate:
@@ -29,3 +28,4 @@ I think I like the distressed look...
 
 ![](/images/distressed.jpeg)
 
+Go back to [Panels part two](/posts/2022/nov-2022/panels-part-two/)

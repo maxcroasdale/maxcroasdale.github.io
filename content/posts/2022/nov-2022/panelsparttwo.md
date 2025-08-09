@@ -1,10 +1,9 @@
 ---
 title: Panels part two
-date: 2022-11-19T16:29:57Z
 draft: false
 summary:
 description:
-slug: panels part two
+slug: panels-part-two
 author: MC
 lastmod:
 expiryDate:
@@ -34,3 +33,6 @@ Always cleaning!
 
 ![](/images/3204.jpeg)
 
+Go to [Panels part three](/posts/2022/nov-2022/panels-part-three/)
+
+Go back to [Panels part one](/posts/2022/nov-2022/panels-part-one/)

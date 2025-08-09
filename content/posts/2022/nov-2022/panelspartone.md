@@ -1,10 +1,9 @@
 ---
 title: Panels part one
-date: 2022-11-13T14:19:52Z
 draft: false
 summary:
 description:
-slug: panels part one
+slug: panels-part-one
 author: MC
 
 
@@ -26,6 +25,10 @@ Years of accumulated paint.
 ![](/images/3128.jpeg)
 
 Slow, laborious and messy work.
+
+Go to [Panels part two](/posts/2022/nov-2022/panels-part-two/)
+
+
 
 
 
