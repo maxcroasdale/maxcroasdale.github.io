@@ -17,7 +17,7 @@ feature_image:
 feature_image_alt:
 ---
 
-Dig out a trench and expose those few embedded bricks. The aim is to create a gravel path next to the wworkshop
+Dig out a trench and expose those few embedded bricks. The aim is to create a gravel path next to the workshop
 and extend the dividing wall with another course. 
 
 ![](/images/2810.jpeg )
@@ -25,6 +25,8 @@ and extend the dividing wall with another course.
 ![](/images/2811.jpeg )
 
 ![](/images/2820.jpeg )
+
+![](/images/2824.jpeg )
 
 ![](/images/2821.jpeg )
 
