@@ -33,11 +33,3 @@ Repair the bits of wall with render.
 ![](/images/2846.jpeg )
 
 ![](/images/2847.jpeg )
-
-Fill the path with gravel.
-
-![](/images/2848.jpeg )
-
-Replace the slabs with bricks.
-
-![](/images/2849.jpeg )
