@@ -33,3 +33,8 @@ Repair the bits of wall with render.
 ![](/images/2846.jpeg )
 
 ![](/images/2847.jpeg )
+
+Friday 15, second coat.
+
+![](/images/2876.jpeg )
+
