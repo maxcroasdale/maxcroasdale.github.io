@@ -3,10 +3,10 @@ title: Being the account of renovating a house that dates from the 17th century 
 
 
 
-secondary_cta_page: "architecture"
+secondary_cta_page: "before"
 primary_cta_page: "posts"
 
-projects_section_heading: architecture
+projects_section_heading: Before and after
 posts_section_heading: Recent Posts
 
 ---
