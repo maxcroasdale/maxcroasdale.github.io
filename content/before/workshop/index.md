@@ -10,18 +10,19 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: website.jpg
-feature_image_alt: Website
+feature_image: 
+feature_image_alt: 
 weight: 3
 
 ---
 
-Workshop, AKA the garage.  This is destined to be one of the most used rooms in the house - bike workshop and storage, guitar workshop, and general storage. It could do with painting.
+Workshop, AKA the garage.
 
 ![](/images/9409.jpeg)
 
 ![](/images/9445.jpeg)
 
+<!--
 ![](/images/9446.jpeg)
 
 ![](/images/9447.jpeg)
@@ -49,6 +50,7 @@ And the lighting:
 
 See [here](/posts/2022/nov-2022/workshop-lights) for the post that describes this job.
 
+-->
 
 After painting:
 
@@ -56,6 +58,7 @@ After painting:
 
 ![](/images/9569.jpeg)
 
+<!--
 ![](/images/9568.jpeg)
 
 ![](/images/9569.jpeg)
@@ -68,6 +71,8 @@ After painting:
 [Two](/posts/2022/dec-2022/workshopwiring-2)
 
 [Three](/posts/2023/jan-2023/workshopwiring-3)
+
+
 
 ### March 2023
 
@@ -82,5 +87,9 @@ After painting:
 ### Feb 2025
 
 ![](/images/light-ring-work-25.png)
+
+-->
+
+And wiring:
 
 ![](/images/1645.jpeg)

@@ -10,7 +10,7 @@ date: 2022-08-22T16:48:38+01:00
 lastmod: 
 expiryDate: 
 publishDate: 
-weight: 4
+weight: 6
 ---
 
 Terracotta tiles.
@@ -19,8 +19,9 @@ Terracotta tiles.
 
 Aug 2024
 
-![](/images/0890.jpeg)
+
+![](/images/6305.jpeg)
 
 
-![](/images/0889.jpeg)
+
   

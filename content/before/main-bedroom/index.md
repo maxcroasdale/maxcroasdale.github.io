@@ -12,18 +12,18 @@ publishDate:
 
 feature_image: website.jpg
 feature_image_alt: Website
-weight: 6
+weight: 5
 
 ---
 
 Aug 2022
 
 ![](/images/9429.jpeg)
-
+<!--
 Aug 2023
 
 ![](/images/0116.jpeg)
-
+-->
 Aug 2024
 
 ![](/images/0901.jpeg)

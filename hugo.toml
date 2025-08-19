@@ -6,10 +6,10 @@ theme = 'hugo-liftoff'
 
 [menu]
 [[menu.main]]
-identifier = 'Architecture'
-name = 'Architecture'
-title = 'Architecture'
-url = '/architecture/'
+identifier = 'Before and after'
+name = 'Before and after'
+title = 'Before and after'
+url = '/Before/'
 weight = 2
 
 [[menu.main]]

@@ -10,9 +10,8 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: website.jpg
-feature_image_alt: Website
-weight: 6
+
+weight: 10
 
 ---
 
@@ -24,7 +23,7 @@ The worst toilet in Jacobean England
 
 
 
-
+<!--
 Removing yet more shelves...
 ![](/images/9464.jpeg)
 
@@ -37,7 +36,7 @@ Removing yet more shelves...
 ![](/images/xx67.jpeg) 
 
 ![](/images/xx68.jpeg) 
-
+-->
 October 2023
 
 ![](/images/5771.jpeg) 

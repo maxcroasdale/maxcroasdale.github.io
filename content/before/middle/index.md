@@ -12,10 +12,9 @@ publishDate:
 
 feature_image: website.jpg
 feature_image_alt: Website
-weight: 5
+weight: 7
 
 ---
-
 
 ![](/images/0963.jpeg)
 
