@@ -40,12 +40,6 @@ A charming private, courtyard garden that captures the path of the sun throughou
 
 ![](/images/1913.jpeg)
 
-![](/images/1974.jpeg)
-
-![](/images/2034.jpeg)
-
-![](/images/2066.jpeg)
-
 ![](/images/2128.jpeg)
 
 ![](/images/2161.jpeg)
