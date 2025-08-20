@@ -17,7 +17,7 @@ The bathroom - not quite as horrible as the downstairs loo...
 
 ![](/images/0161.jpeg)
 
-October 2023
+## October 2023
 
 ![](/images/0332.jpeg)
 

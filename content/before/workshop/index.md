@@ -10,8 +10,6 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: 
-feature_image_alt: 
 weight: 3
 
 ---

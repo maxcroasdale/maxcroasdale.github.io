@@ -37,7 +37,7 @@ Removing yet more shelves...
 
 ![](/images/xx68.jpeg) 
 -->
-October 2023
+## October 2023
 
 ![](/images/2913.jpeg) 
 

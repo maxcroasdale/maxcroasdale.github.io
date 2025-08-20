@@ -10,8 +10,6 @@ lastmod:
 expiryDate: 
 publishDate: 
 
-feature_image: website.jpg
-feature_image_alt: Website
 weight: 4
 
 ---
@@ -25,6 +23,8 @@ A charming private, courtyard garden that captures the path of the sun throughou
 ![](/images/4409.jpeg)
 
 ![](/images/1256.jpeg)
+
+## 2025 
 
 ![](/images/1456.jpeg)
 

@@ -32,6 +32,7 @@ We removed the shelves and cupboards.
 ![](/images/9482.jpeg)
 
 -->
+## May-Aug 2025
 
 Complete rebuild:
 - new joists

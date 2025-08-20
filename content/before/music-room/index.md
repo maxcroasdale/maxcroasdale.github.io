@@ -19,12 +19,12 @@ weight: 2
 ---
 The music room has a high ceiling and lively acoustic. 
 
-August 2022
+## August 2022
 
 ![](/images/9404.jpeg)
 
 <!--
-September 2023
+## September 2023
 
 ![](/images/0180.jpeg)
 
@@ -38,7 +38,7 @@ September 2023
 ![](/images/2779.jpeg)
 -->
 
-July, 2023
+## July, 2023
 
 - Beams cleaned
 - Walls painted
