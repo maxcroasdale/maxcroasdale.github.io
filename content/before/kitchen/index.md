@@ -20,6 +20,10 @@ weight: 2
 
 ![](/images/8628.jpeg)
 
+Devastation
+
+![](/images/2379.jpeg )
+
 <!--
 On closer inspection it looked like it hadn't been cleaned since the 1970s! Two full days of meticulous scrubbing.
 ![](/images/9401.jpeg)
