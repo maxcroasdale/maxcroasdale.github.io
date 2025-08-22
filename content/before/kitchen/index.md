@@ -14,8 +14,11 @@ publishDate:
 weight: 2
 ---
 
-The kitchen looked quite charming from the estate agent's photograph...
-![](/images/kitchen1.jpeg)
+![](/images/8632.jpeg)
+
+![](/images/8633.jpeg)
+
+![](/images/8628.jpeg)
 
 <!--
 On closer inspection it looked like it hadn't been cleaned since the 1970s! Two full days of meticulous scrubbing.
