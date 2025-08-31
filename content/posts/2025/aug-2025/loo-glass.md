@@ -13,7 +13,7 @@ lastmod:
 expiryDate:
 publishDate: 2025-08-31
 ---
-Prepare the top of the doors for a glass panel. Delicate cutting of wood to make a surround 
+Prepare the top of the doors for a glass panel. Delicate cutting of wood to make a surround. 
 
 
 ![](/images/2948.jpeg )

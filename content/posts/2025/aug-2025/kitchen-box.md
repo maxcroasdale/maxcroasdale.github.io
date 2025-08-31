@@ -29,7 +29,7 @@ Internal lugs to attach it to the wall.
 
 ![](/images/2941.jpeg )
 
-Wall side is not straight - a few shives to get it closer.
+Wall side is not straight - a few shivs to get it closer.
 
 ![](/images/2944.jpeg )
 
