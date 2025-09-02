@@ -88,6 +88,6 @@ After painting:
 
 -->
 
-And wiring:
+Wiring and shelving:
 
 ![](/images/1645.jpeg)
