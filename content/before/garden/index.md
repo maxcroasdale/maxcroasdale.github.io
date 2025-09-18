@@ -50,3 +50,5 @@ A charming private, courtyard garden that captures the path of the sun throughou
 - little walls built
 - new pergola
 
+![](/images/0381.jpeg)
+

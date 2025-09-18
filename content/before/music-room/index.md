@@ -51,3 +51,5 @@ The music room has a high ceiling and lively acoustic.
 
 ![](/images/1647.jpeg)
 
+![](/images/0490.jpeg )
+
