@@ -51,7 +51,7 @@ The music room has a high ceiling and lively acoustic.
 
 ![](/images/1647.jpeg)
 
-![](/images/0490.jpeg )
+![](/images/2959.jpeg )
 
 - [Music room - clear it](/posts/2023/feb-2023/clear-music-room/)
 - [Music room - prep](/posts/2023/mar-2023/prep-music-room/)
