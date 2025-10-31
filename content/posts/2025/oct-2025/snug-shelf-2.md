@@ -41,7 +41,7 @@ Add a baton.
 
 ![](/images/3031.jpeg )
 
-Add two more brackets and another batton to strengthen the supports.
+Add two more brackets and another baton to strengthen the supports.
 
 ![](/images/3034.jpeg )
 
