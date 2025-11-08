@@ -14,7 +14,7 @@ weight = 2
 
 [[menu.main]]
 identifier = 'Blog'
-name = 'What we do at the weekends'
-title = 'What we do at the weekends'
+name = 'What we do at the weekend'
+title = 'What we do at the weekend'
 url = '/posts/'
 weight = 1
