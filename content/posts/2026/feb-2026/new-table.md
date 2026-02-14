@@ -18,15 +18,16 @@ feature_image_alt:
 ---
 A great, incongruous slab of concrete provides contrast and looks great in the front room.
 
+![](/images/3140.jpeg)
+
 ![](/images/3130.jpeg)
 
 ![](/images/3131.jpeg)
 
 
-![](/images/3140.jpeg)
 
 
-![](/images/3143.jpeg)
+
 
 
 
