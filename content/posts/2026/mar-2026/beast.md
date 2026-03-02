@@ -16,7 +16,9 @@ feature_image:
 feature_image_alt:
 
 ---
-I sent the 401 away for full strip down and rebuild as the pitch was wavering from true. It's now rock solid.
+I sent the 401 away for full strip down and rebuild as the pitch was wavering from true. 
+
+This is probably the first time it's had a service...
 
 
 ![](/images/3172.jpeg)
@@ -50,4 +52,7 @@ Thirty-three and a third...
 
 ![](/images/3207.jpeg)
 
+
 ![](/images/3209.jpeg)
+
+It's now rock solid.
