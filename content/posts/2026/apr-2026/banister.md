@@ -11,10 +11,6 @@ date: 2026-04-03
 lastmod:
 expiryDate:
 publishDate: 2026-04-03
-
-feature_image:
-feature_image_alt:
-
 ---
 
 Install the banister... two years after we installed the staircase...
