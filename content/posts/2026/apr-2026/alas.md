@@ -20,6 +20,6 @@ Alas, poor deer, found on our hill walk.
 
 ![](/images/3909.jpeg)
 
-With that lovely pear.
+With those lovely pears.
 
 
