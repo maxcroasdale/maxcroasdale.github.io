@@ -1,8 +1,8 @@
 ---
 type: about
-linktitle: About
+linktitle: sAbout
 title: "Welcome to Little Sparta"
-featured_image: "/images/0957.jpeg"
+featured_image: "/images/.jpeg"
 
 ---
 
