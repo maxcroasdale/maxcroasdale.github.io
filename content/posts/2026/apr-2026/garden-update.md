@@ -1,22 +1,19 @@
 ---
 title: Garden update
-seo_title:  Garden update
+seo_title: Garden update
 summary:
 description:
-slug:  Garden update
+slug: Garden update
 author: <no value>
 
 draft: false
-date: 2026-04-04
+date: 2026-04-05
 lastmod:
 expiryDate:
-publishDate: 2026-04-04
-
-feature_image:
-feature_image_alt:
+publishDate: 2026-04-05
 
 ---
-Install another support for the roses
+Install another support for the roses.
 
 ![](/images/4103.jpeg)
 
