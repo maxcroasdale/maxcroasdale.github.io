@@ -7,10 +7,10 @@ slug: Garden update
 author: <no value>
 
 draft: false
-date: 2026-04-05
+date: 2026-05-04
 lastmod:
 expiryDate:
-publishDate: 2026-04-05
+publishDate: 2026-05-04
 
 ---
 Install another support for the roses.
