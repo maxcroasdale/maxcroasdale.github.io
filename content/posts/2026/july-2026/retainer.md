@@ -13,6 +13,7 @@ expiryDate:
 publishDate: 2026-07-04
 
 ---
+
 Build a little retaining wall to protect the old rose and climbing tree and ensure the path is neat. 
 
 ![](/images/4919.jpeg)
@@ -24,4 +25,6 @@ Build a little retaining wall to protect the old rose and climbing tree and ensu
 ![](/images/4925.jpeg)
 
 ![](/images/3260.jpeg)
+
+
 
