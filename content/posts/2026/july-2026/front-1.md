@@ -14,7 +14,8 @@ publishDate: 2026-07-10
 
 ---
 
-Paint the outside using a telescopic handle and roller. I undercoated the ground floor windows earlier this week.
+5:30am start when it's cool (too hot during this heatwave...) to paint the outside using a telescopic handle and roller. 
+I undercoated the ground floor windows earlier this week.
 
 
 ![](/images/4935.jpeg)
