@@ -16,5 +16,6 @@ publishDate: 2026-07-11
 
 5:30am again to second coat. Using the ladder to reach the top floor windows. 
 
+![](/images/L1314.jpeg)
 
-![](/images/4986.jpeg)
+![](/images/L1429.jpeg)
