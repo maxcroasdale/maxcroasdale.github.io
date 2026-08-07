@@ -17,3 +17,4 @@ publishDate: 2026-08-06
 I'd undercoated in white. Now top coat of grey.
 
 ![](/images/5117.jpeg)
+
