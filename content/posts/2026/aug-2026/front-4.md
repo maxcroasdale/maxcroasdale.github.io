@@ -16,9 +16,12 @@ publishDate: 2026-08-07
 
 5:00am again. 
 
-Using the ladder to reach the top floor windows. Another coat for the door.
+Using the ladder to reach the top floor windows. I taped a brush to the telescopic handle to reach the window perhipherals.
+A stretch but fine.
 
-No more up and stretching from the extended ladder. And only a little more hanging out of a top floor window.
+Another coat for the door.
+
+And only a little more hanging out of a top floor window.
 
 ![](/images/5148.jpeg)
 
