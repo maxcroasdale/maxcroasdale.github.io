@@ -21,9 +21,11 @@ From the Street:
 ![](/images/house-front.jpeg)
 
 
-Summer 2026.
+Summer 2026. Front and woodwork painted.
 
 ![](/images/3631.jpeg)
+
+
 
 Aug 2022.
 Looking at the garage:
