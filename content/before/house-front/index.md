@@ -1,4 +1,4 @@
----
+_---
 title: House front
 summary: 
 description: 
@@ -18,7 +18,7 @@ Aug 2022.
 
 From the Street:
 
-![](/images/house-front.jpeg)
+![](/images/house-front.jpeg)_
 
 
 Summer 2026. Front and woodwork painted.
