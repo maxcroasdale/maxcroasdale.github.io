@@ -34,6 +34,9 @@ Better.
 
 ![](/images/L1978.jpeg)
 
+View from my desk.
+
+![](/images/L1980.jpeg)
 
 Mr Gould's new home.
 
